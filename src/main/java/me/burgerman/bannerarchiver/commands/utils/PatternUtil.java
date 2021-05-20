@@ -27,6 +27,9 @@ public class PatternUtil {
             case "square_bottom_right":
                 patternurl = "d";
                 break;
+            case "square_bottom_left":
+                patternurl = "b";
+                break;
             case "square_top_left":
                 patternurl = "C";
                 break;
@@ -34,10 +37,10 @@ public class PatternUtil {
                 patternurl = "D";
                 break;
             case "stripe_bottom":
-                patternurl = "b";
+                patternurl = "f";
                 break;
             case "stripe_top":
-                patternurl = "f";
+                patternurl = "E";
                 break;
             case "flower":
                 patternurl = "o";
@@ -64,7 +67,7 @@ public class PatternUtil {
                 patternurl = "J";
                 break;
             case "diagonal_up_left":
-                patternurl = "l";
+                patternurl = "I";
                 break;
             case "diagonal_up_right":
                 patternurl = "x";
