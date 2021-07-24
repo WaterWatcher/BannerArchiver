@@ -2,8 +2,8 @@
 {
   "modid": "bannerarchiver",
   "name": "BannerArchiver",
-  "description": "Saves Banner info",
-  "version": "11",
+  "description": "Generates banner recipe links",
+  "version": "v2.0",
   "mcversion": "1.12.2",
   "authorList": ["Hamburger"],
   "credits": "",
