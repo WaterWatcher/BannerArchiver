@@ -11,7 +11,6 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
  *
  * Author: Hamburger 19/05/2021
  */
-
 @Mod(modid = BannerArchiverMod.MODID, name = BannerArchiverMod.MODNAME, version = BannerArchiverMod.MODVER)
 public class BannerArchiverMod {
 
