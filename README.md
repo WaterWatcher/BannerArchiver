@@ -2,9 +2,9 @@
 Minecraft 1.12.2 Forge mod for creating banner recipe links.
 
 # Usage
-Use the following command while holding a banner in your main hand:
+Use the following command while holding a banner or looking at one:
 ```
-/bannerarchiver
+/bannerarchiver <hand | trace>
 ```
 This will create a chat message with the banner display name and a recipe link. This is shown here:![2021-05-20_12 41 42](https://user-images.githubusercontent.com/59456376/118965261-c9e69000-b968-11eb-9da1-3625a1d2282d.png)
 
@@ -28,4 +28,4 @@ It is recommended to clean the build, before actually building it. This can be d
 
 # Suggestions / Bug reports etc
 
-Make an issue or let me know on Discord if there are any changes/QOL/Fixes that you want to see. 
+Make an issue or let me know on Discord if there are any changes/QOL/Fixes that you want to see. First release standalone mod, so there might be some style issues or whatever.
